@@ -35,7 +35,7 @@ function injectQuicklaunch() {
       )
   );
   CRM.$('#quicklaunch-box').dialog({
-    width: 430,
+    width: 450,
     height: 300,
     title: 'QuickLaunch',
     resizable: false,
